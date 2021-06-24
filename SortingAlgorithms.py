@@ -49,4 +49,8 @@ if __name__ == "__main__":
 	shuffle(unsortedList)
 	print(unsortedList)
 	
+	#print(bogosort(unsortedList))
+	#print(bubbleSort(unsortedList))
+	#print(mergeSort(unsortedList))
+	
 
